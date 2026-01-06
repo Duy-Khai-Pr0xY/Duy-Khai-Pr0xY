@@ -31,6 +31,8 @@
 # 🛠️ Tools
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-005CFF?style=for-the-badge&logo=nmap&logoColor=white)
+![ffuf](https://img.shields.io/badge/ffuf-000000?style=for-the-badge&logo=go&logoColor=white)
+![Arjun](https://img.shields.io/badge/Arjun-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🌐 Socials:
