@@ -68,10 +68,6 @@
 ## 💣 Skills
 ![Web Pentest](https://img.shields.io/badge/Web%20Pentest-0A84FF?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Duy-Khai-Pr0xY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Duy-Khai-Pr0xY&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Khai-Pr0xY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
