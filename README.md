@@ -24,6 +24,18 @@
   </tr>
 </table>
 
+## 🛡️ PortSwigger Academy Basic Labs
+![SQL Injection](https://img.shields.io/badge/SQL_Injection_Basic-FF0000?style=for-the-badge)
+![XSS](https://img.shields.io/badge/XSS_Basic-FF6600?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF_Basic-FFCC00?style=for-the-badge)
+![SSRF](https://img.shields.io/badge/SSRF_Basic-00CC00?style=for-the-badge)
+![XXE](https://img.shields.io/badge/XXE_Injection_Basic-0099CC?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth_Bypass_Basic-6633FF?style=for-the-badge)
+![Business Logic](https://img.shields.io/badge/Business_Logic_Basic-CC33FF?style=for-the-badge)
+![Command Injection](https://img.shields.io/badge/Command_Inj_Basic-808080?style=for-the-badge)
+![File Upload](https://img.shields.io/badge/File_Upload_Basic-008080?style=for-the-badge)
+![Path Traversal](https://img.shields.io/badge/Path_Traversal_Basic-A52A2A?style=for-the-badge)
+
 # 🗂️ Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
